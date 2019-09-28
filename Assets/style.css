@@ -46,7 +46,7 @@ p {
 
 .header-color{ 
     float:left;
-    margin-left: 176px; 
+    margin-left: 145px; 
     background: #4aaaa5;
     height: 80px; 
     width: 200px;
@@ -56,7 +56,7 @@ p {
 
 .main{
     background-color: white;
-    width: 900px;
+    width: 960px;
     height: 520px;
     border: rgb(155, 153, 153);
     margin-left: auto;
@@ -75,7 +75,7 @@ ul {
     margin: 0;
     width: 400px;
     padding-top: 30px;
-    padding-left: 800px;
+    padding-left: 825px;
     list-style-type: none;  
 }
 
