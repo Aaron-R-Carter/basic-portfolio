@@ -17,6 +17,7 @@ h1 {
     float: left;
     margin-left:-150px;
     color: white;
+    
 }
 
 h2 {
@@ -24,6 +25,7 @@ h2 {
     padding-left: 30px;
     color:#4aaaa5;
     margin-top: 0;
+    font-size: 28px;
 }
 
 #face-pic{
@@ -97,10 +99,11 @@ li a {
 #hr1{
     margin-left: 25px;
     margin-right: 25px;
-    height: 2px;
+    height: 3px;
     display: block;
     background-color: lightgray;
     border: none;
+    opacity: .5;
 }
 
 #hr2 {
