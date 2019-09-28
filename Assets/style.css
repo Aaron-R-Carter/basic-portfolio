@@ -1,0 +1,111 @@
+
+body{
+    background-color: gray;
+    background-image: url(../images/concrete-texture.png);
+    margin: auto;
+}
+
+header {
+
+    background-color: white;
+    height: 80px;
+    border-bottom: 2px solid lightgray;
+    width: 100%;
+}
+
+h1 {
+    float: left;
+    margin-left:-150px;
+    color: white;
+}
+
+h2 {
+    Padding-top: 40px;
+    padding-left: 30px;
+    color:#4aaaa5;
+    margin-top: 0;
+}
+
+#face-pic{
+    float: left;
+    width: 200px;
+    padding-left:25px;
+    padding-right: 25px;
+    padding-top: 25px;
+    padding-bottom:25px;
+}
+
+p {
+    margin:25px;
+    line-height: 30px;
+    color: rgb(138, 138, 138);
+    font-family: sans-serif;
+}
+
+.header-color{ 
+    float:left;
+    margin-left: 176px; 
+    background: #4aaaa5;
+    height: 80px; 
+    width: 200px;
+    text-align: center;
+    margin-top: 0;     
+}
+
+.main{
+    background-color: white;
+    width: 900px;
+    height: 520px;
+    border: rgb(155, 153, 153);
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    border-width: 5px;    
+}
+
+ul li {
+    display: inline;  
+    font-family: sans-serif;
+}
+
+ul {
+    margin: 0;
+    width: 400px;
+    padding-top: 30px;
+    padding-left: 820px;
+    list-style-type: none;  
+}
+
+.paragraph {
+    margin-top: 50px; 
+}
+
+li a {
+    text-decoration: none;
+    color: rgb(105, 105, 105);
+    padding-left: 30px;
+}
+
+
+#hr1{
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 2px;
+    display: block;
+    background-color: lightgray;
+    border: none;
+}
+
+#hr2 {
+    background-color: #4aaaa5;
+    height: 5px;
+    margin: 0;
+    border: none;
+}
+
+footer {
+   margin: auto;
+   background-color: rgb(83, 83, 83);
+   height: 80px;
+}
