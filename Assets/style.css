@@ -1,4 +1,4 @@
-/* NOTE: Submitted to Bootcamp - Not sure why a:hover isn't working on github hosted page? */
+/* NOTE: Submitted to Bootcamp */
 
 
 /* Main/Universal */
@@ -165,6 +165,7 @@ input:focus {
 }
 
 textarea {
+    resize: none;
     width: 645px;
     height: 200px;
     margin-top: 5px;
