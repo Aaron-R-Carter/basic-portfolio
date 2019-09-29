@@ -1,9 +1,7 @@
 
 body{
-    background-color: gray;
     background-image: url(../images/concrete-texture.png);
     margin: auto;
-   
 }
 
 /* header stylings & h tags */
@@ -172,6 +170,24 @@ textarea {
     font-size: 14px;
 }
 
+/* portfolio page styling */
+
+.main-port{
+    background-color: white;
+    width: 700px;
+    height: 900px;
+    border: #dddddd;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    border-width: 5px;    
+}
+
+.port-grid {
+    margin: 25px;
+}
+
 /* decorations & dividers */
 #hr1{
     margin-left: 25px;
@@ -190,12 +206,13 @@ footer {
    background-color:#666666;
    height: 80px;
    text-align: center;
-   font-size: 12px;
+   
    
 }
 
 #foot-text {
     color: #e9e9e9;
+    font-size: 12px;
 }
 
 #hr2 {
