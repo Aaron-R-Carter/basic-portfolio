@@ -51,9 +51,17 @@ h2 {
 
 /* nav menus styling */
 
+ul {
+    margin-top: 0;
+    padding-top: 30px;
+    margin-left: 400;
+    padding-left: 830px;
+}
+
 ul li {
     display: inline;  
     font-family: sans-serif;
+    
 }
 
 .ul-form {
@@ -121,6 +129,7 @@ p {
 
 .paragraph {
 margin-top: 50px; 
+color: #777777;
 }
 
 /* contact form styling */
